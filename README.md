@@ -2,6 +2,9 @@
  This is a simple tool for openbullet configs.<br/>
  Usually openbullet configs contains discord webhook requests to send the result to the owner of the config file.
 
+# Tool
+![](https://i.ibb.co/vJfP0jk/tool.png)
+
 # Example
 ![](https://i.ibb.co/nCg7QDP/example.png)
 
@@ -11,7 +14,7 @@
  Spam discord webhooks<br/>
  Remove webhook from configs<br/>
  Add your webhook to configs<br/>
- Replace webhooks to your webhook
+ Replace webhooks with your webhook
  
 # Important
  The software designed to perform website security testing.<br/>
