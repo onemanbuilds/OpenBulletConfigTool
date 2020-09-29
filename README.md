@@ -16,7 +16,7 @@
  Add your webhook to configs<br/>
  Replace webhooks with your webhook
  
-# Important
+# Legal
  The software designed to perform website security testing.<br/>
  The author is not responsible for any illegal use of these programs.<br/>
  I am not accountable for anything you get into.<br/>
