@@ -86,7 +86,7 @@ def WebhookSpam():
     while True:
         for webhook in ReadWebhooks():
             lock.acquire()
-            Thread(target=WebhookSpamMethod(message,webhook))
+            Thread(target=WebhookSpamMethod(message,webhook)).start()
             lock.release()
 
 def AddWebhookToConfigs():
