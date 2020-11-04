@@ -2,6 +2,11 @@
  This is a simple tool for openbullet configs.<br/>
  Usually openbullet configs contains discord webhook requests to send the result to the owner of the config file.
 
+# Installation
+```
+pip3 install -r requirements.txt
+``` 
+
 # Tool
 ![](https://i.ibb.co/vJfP0jk/tool.png)
 
