@@ -5,7 +5,7 @@
  - Usually an openbullet config includes discord webhook requests to send the result to the owner of the config file.</br>
 
 # Example
-![](https://i.ibb.co/nCg7QDP/example.png)
+![](https://i.ibb.co/tZqDtW1/example.png)
 
 # Features
  - Multithreading.</br>
@@ -24,7 +24,7 @@
  - Spam webhooks custom thread number.</br>
 
 # Preview
-![](https://i.ibb.co/w0HCJ8c/Combo-AIO-Cz5-ZIz-G8-HF.png)
+![](https://i.ibb.co/Pj651Lw/Open-Bullet-AIO-Sawg-WOg-Fc-I.png)
 
 # Installation
  - First method, make sure you have python 3.8.7 or higher.<br/>
