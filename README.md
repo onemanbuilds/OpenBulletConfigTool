@@ -43,6 +43,9 @@
 # Note
  - If you have any issues or noticed something feel free to report the issue so i can fix it when i will have time.<br/>
 
+# ToDo
+ - Read the grabbed webhooks from the GetWebhooks/webhooks.txt show the webhooks as a menu and the selected option should be spammed instead of sending 1 message to all of the webhooks.<br>
+
 # Legal
  - This was merely a speedrun to demonstrate how combo editors work.<br/>
  - The software designed to perform website security testing.<br/>
